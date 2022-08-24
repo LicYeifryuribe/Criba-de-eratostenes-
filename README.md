@@ -6,7 +6,7 @@
 3. Criba de Eratóstenes
 4. ¿Cómo se aplica?
 5. Numeros primos 
-6. Pongamos en práctica 
+6. Pongamos en práctica
 7. Bibliografia 
 
 ## Eratóstenes
@@ -44,6 +44,11 @@ y se procede a tachar todos sus múltiplos, así sucesivamente.El proceso termin
 ![image](https://user-images.githubusercontent.com/112005825/186521634-d2842b4b-c1dd-4e09-b691-6519b9b9dd58.png)
 ![image](https://user-images.githubusercontent.com/112005825/186521680-97d53d69-7704-4c87-8dd3-f61193684349.png)
 ![image](https://user-images.githubusercontent.com/112005825/186521717-2a7192a3-03c2-47a7-a19e-435ae7f13741.png)
+
+## Criba de Eratóstenes por medio de programación (smartphone)
+![image](https://user-images.githubusercontent.com/112005825/186535778-6c2232aa-af4f-44e7-a41a-ebcd43df6a27.png)
+![image](https://user-images.githubusercontent.com/112005825/186535797-b876dfcc-263a-4bd4-afa5-5c61d578dcd0.png)
+![image](https://user-images.githubusercontent.com/112005825/186535815-9fa2ef36-6c2a-4477-b8f1-2c0bf849c14b.png)
 
 ## Bibliografía
 >https://es.wikipedia.org/wiki/Criba_de_Erat%C3%B3stenes
