@@ -7,6 +7,7 @@
 4. ¿Cómo se aplica?
 5. Numeros primos 
 6. Pongamos en práctica 
+7. Bibliografia 
 
 ## Eratóstenes
 >Eratóstenes de Cirene (Cirene, 276 a. C.-Alejandría, 194 a. C.) fue un matemático, astrónomo y geógrafo griego de origen
@@ -31,16 +32,30 @@ con el conjunto en si, sino que cuentan de acuerdo con funciones de peso cuidado
 ## ¿Cómo se aplica?
 >Se forma una tabla con todos los números naturales comprendidos entre 2 y **n**, y se van tachando los números que no son primos de la siguiente manera:
 Comenzando por el 2, se tachan todos sus múltiplos.Comenzando de nuevo, cuando se encuentra un número entero que no ha sido tachado, ese número es declarado primo,
-y se procede a tachar todos sus múltiplos, así sucesivamente.El proceso termina cuando el cuadrado del siguiente número confirmado como primo es mayor que **n**.
+y se procede a tachar todos sus múltiplos, así sucesivamente.El proceso termina cuando el cuadrado del siguiente número confirmado como primo es mayor que **n**; Una condición es que x²≤**n**.
 
 ## Numeros primos 
 >En matemáticas, un número primo es un número natural mayor que 1 que tiene únicamente dos divisores positivos distintos: él mismo y el 1. Por el contrario, los números compuestos son los números naturales que tienen algún divisor natural aparte de sí mismos y del 1, y, por lo tanto, pueden factorizarse. El número 1, por convenio, no se considera ni primo ni compuesto.
 
 ## Pongamos en práctica 
 >Encontrar los numeros primos del 2 al 40, usando la criba de Eratóstenes
-
 ![image](https://user-images.githubusercontent.com/112005825/186521381-8d148434-30e3-4e8c-a66c-47843032924a.png)
 ![image](https://user-images.githubusercontent.com/112005825/186521558-4d058cf2-d24e-477c-bfca-febc1db7677a.png)
 ![image](https://user-images.githubusercontent.com/112005825/186521634-d2842b4b-c1dd-4e09-b691-6519b9b9dd58.png)
 ![image](https://user-images.githubusercontent.com/112005825/186521680-97d53d69-7704-4c87-8dd3-f61193684349.png)
 ![image](https://user-images.githubusercontent.com/112005825/186521717-2a7192a3-03c2-47a7-a19e-435ae7f13741.png)
+
+## Bibliografía
+>https://es.wikipedia.org/wiki/Criba_de_Erat%C3%B3stenes
+
+>https://es.wikipedia.org/wiki/Teor%C3%ADa_de_cribas
+
+>https://es.wikipedia.org/wiki/Erat%C3%B3stenes
+
+>https://es.wikipedia.org/wiki/N%C3%BAmero_primo
+
+>https://numerosprimos.org/criba-de-eratostenes/
+
+>https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+![image](https://user-images.githubusercontent.com/112005825/186530156-8ec5c80d-06ac-44d9-acff-e7f38ea12dbf.png)
